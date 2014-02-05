@@ -1,6 +1,8 @@
 oauthtest README
 ==================
 
+Example usage of pyramid_oauth2_provider.
+
 Getting Started
 ---------------
 
